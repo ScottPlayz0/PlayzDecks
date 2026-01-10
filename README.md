@@ -14,6 +14,12 @@ you just need steamodded for it to work
 
 ‎‎‎‎‎‎‎‎ㅤ
 
+-Shattered Deck-
+
+<img width="587" height="301" alt="Screenshot 2026-01-10 004006" src="https://github.com/user-attachments/assets/8a7cd63c-c75f-4c40-8a55-c6f6111a0b74" />
+
+‎‎‎‎‎‎‎‎ㅤ
+
 -Pattern Deck-
 
 <img width="585" height="316" alt="Screenshot 2026-01-09 185356" src="https://github.com/user-attachments/assets/695cfdde-73cc-4f0a-b64d-91a5f322a404" />
