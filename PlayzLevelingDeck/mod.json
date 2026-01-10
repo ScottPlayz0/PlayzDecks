@@ -1,0 +1,15 @@
+{
+  "id": "playzlevelingdeck",
+  "name": "PlayzLevelingDeck",
+  "display_name": "PlayzLevelingDeck",
+  "author": ["ScottPlayz"],
+  "description": "Adds the Leveling Deck, which decreased joker amount by 3 and grants a joker every boss blind defeated",  
+  "prefix": "playzleveling",
+  "main_file": "main.lua",
+  "priority": 0,
+  "badge_color": "#B700FF",
+  "badge_text_color": "#2B0000",
+  "version": "1.0.1",
+  "dependencies": [],
+  "dump_loc":true
+}
