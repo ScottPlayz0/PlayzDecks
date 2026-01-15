@@ -4,9 +4,11 @@ just download via the code download option, they are seperated by folders for ea
 
 you just need steamodded for it to work
 
- 
 ‎‎‎‎‎‎‎‎ㅤ
- 
+
+Decks:
+
+‎‎‎‎‎‎‎‎ㅤ
 
 -Leveling Deck-
 
@@ -16,14 +18,13 @@ you just need steamodded for it to work
 
 -Shattered Deck-
 
-<img width="587" height="301" alt="Screenshot 2026-01-10 004006" src="https://github.com/user-attachments/assets/8a7cd63c-c75f-4c40-8a55-c6f6111a0b74" />
+<img width="583" height="297" alt="Screenshot 2026-01-15 120558" src="https://github.com/user-attachments/assets/0b42e047-8335-4838-9ffa-bbb3d68cb100" />
 
 ‎‎‎‎‎‎‎‎ㅤ
 
 -Pattern Deck-
 
 <img width="585" height="316" alt="Screenshot 2026-01-09 185356" src="https://github.com/user-attachments/assets/695cfdde-73cc-4f0a-b64d-91a5f322a404" />
-
 
 ‎‎‎‎‎‎‎‎ㅤ
 
@@ -48,3 +49,22 @@ you just need steamodded for it to work
 -Magmatic Deck-
 
 <img width="580" height="296" alt="Screenshot 2026-01-09 185402" src="https://github.com/user-attachments/assets/8506b00e-77b4-44c8-9315-bb1b8a811f8c" />
+
+‎‎‎‎‎‎‎‎ㅤ
+
+Jokers:
+
+‎‎‎‎‎‎‎‎ㅤ
+
+Photocopy
+
+<img width="232" height="470" alt="Screenshot 2026-01-15 120903" src="https://github.com/user-attachments/assets/a9a9faea-f8b8-43c4-ad2f-e77a9379eee1" />
+
+
+‎‎‎‎‎‎‎‎ㅤ
+
+Green Needle
+
+<img width="268" height="485" alt="Screenshot 2026-01-15 120920" src="https://github.com/user-attachments/assets/35a09916-0bcb-47e1-8c82-ef48083b8e9b" />
+
+‎‎‎‎‎
