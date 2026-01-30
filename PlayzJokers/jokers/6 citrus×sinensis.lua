@@ -1,11 +1,8 @@
 SMODS.Joker{
     key = "citrus_sinensis",
-
-    -- Only appear after Citrus Maxima has been destroyed
     in_pool = function(self)
         return G.GAME and G.GAME.citrus_maxima_destroyed == true
     end,
-
     config = {
         extra = {
             xchips0 = 3,
@@ -43,14 +40,12 @@ SMODS.Joker{
         else
             odds = 1
         end
-
         if card and SMODS.get_probability_vars then
             local ok, n, d = pcall(SMODS.get_probability_vars, card, 1, odds, "j_modprefix_citrus_sinensis")
             if ok and n and d then
                 return { vars = { n, d } }
             end
         end
-
         return { vars = { 1, odds } }
     end,
 
@@ -58,7 +53,6 @@ SMODS.Joker{
         if context.cardarea == G.jokers and context.joker_main then
             return { x_chips = 3 }
         end
-
         if context.end_of_round and not context.game_over and context.main_eval then
             if SMODS.pseudorandom_probability(
                 card,

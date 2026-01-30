@@ -1,11 +1,8 @@
 SMODS.Joker{
     key = "citrus_maxima",
-
-    -- Stop appearing after it destroys itself
     in_pool = function(self)
         return not (G.GAME and G.GAME.citrus_maxima_destroyed)
     end,
-
     config = {
         extra = {
             chips = 150,
@@ -36,7 +33,6 @@ SMODS.Joker{
 
     loc_vars = function(self, _, card)
         local odds = (card and card.ability.extra.odds) or self.config.extra.odds
-
         if SMODS.get_probability_vars then
             local ok, n, d = pcall(
                 SMODS.get_probability_vars,
@@ -46,15 +42,13 @@ SMODS.Joker{
                 return { vars = { n, d } }
             end
         end
-
         return { vars = { 1, odds } }
     end,
-
+    
     calculate = function(self, card, context)
         if context.cardarea == G.jokers and context.joker_main then
             return { chips = self.config.extra.chips }
         end
-
         if context.end_of_round and context.main_eval and not context.game_over then
             if SMODS.pseudorandom_probability(
                 card,
@@ -63,9 +57,7 @@ SMODS.Joker{
                 card.ability.extra.odds,
                 "j_modprefix_citrus_maxima"
             ) then
-                -- Mark Maxima as destroyed forever this run
                 G.GAME.citrus_maxima_destroyed = true
-
                 card.getting_sliced = true
                 G.E_MANAGER:add_event(Event({
                     func = function()
