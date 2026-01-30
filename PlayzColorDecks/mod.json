@@ -1,7 +1,7 @@
 {
   "id": "playzcolordecks",
-  "name": "PlayzColorDecks",
-  "display_name": "PlayzColorDecks",
+  "name": "Playz Color Decks",
+  "display_name": "Playz Color Decks",
   "author": ["ScottPlayz"],
   "description": "Adds 5 more duel suit decks to fit the checkered deck style",  
   "prefix": "playzcolor",
